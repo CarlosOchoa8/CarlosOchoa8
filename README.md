@@ -33,7 +33,7 @@ I'm an afficionate Python guy wit a great interest in fields it could be uses an
 </p>
 
 ## Where can find me
-<div align="left">
+<div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
