@@ -10,7 +10,7 @@ I'm an afficionate Python guy wit a great interest in fields it could be uses an
 - ⚡ Fun fact: My favorite word is hippotomonstrosesquipedaliophobia
 ## Technologies i have used/use daily
 
-<table style="border: none;"><tr><td valign="top" width="33%">
+
 </td><td valign="top" width="33%">
 <div align="center">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" height="50" /></a>
@@ -32,7 +32,7 @@ I'm an afficionate Python guy wit a great interest in fields it could be uses an
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/OpenCV-Dark.svg" alt="TensorFlow" height="50" /></a>
 </div>
 </td><td valign="top" width="33%">
-</td></tr></table>
+
 
 
 
