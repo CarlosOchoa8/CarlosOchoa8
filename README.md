@@ -46,4 +46,5 @@ I'm an afficionate Python guy wit a great interest in fields it could be uses an
 </div>
   
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosOchoa8&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![](https://github-readme-stats.vercel.app/api?username=CarlosOchoa8&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=CarlosOchoa8&show_icons=true&count_private=true&hide_border=true" align="left" />   -->
