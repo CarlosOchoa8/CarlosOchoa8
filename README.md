@@ -32,9 +32,21 @@ I'm an afficionate Python guy wit a great interest in fields it could be uses an
 <!-- </div> -->
 </p>
 
-## What am I currently working on?
+## What I'm Currently Doing
 <div>
-    <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://python.langchain.com/v0.1/img/brand/wordmark-dark.png" alt="LangChain" height="50" /></a>
+    -I'm focusing on learning about Language Models (LLMs) using the LangChain framework and the Ollama LLM. Here are some things I'm working on: <a href="https://python.langchain.com/v0.1/docs/get_started/introduction/" target="_blank"><img style="margin: 10px" src="https://python.langchain.com/v0.1/img/brand/wordmark-dark.png" alt="LangChain" height="50" /></a>
+
+    - **Study and Documentation**: I'm dedicating time to studying the fundamental concepts of Language Models and documenting what I learn to help others better understand them.
+
+    - **Courses and Practice**: I'm taking online courses and practicing to improve my skills in using LLMs, exploring different applications and use cases.
+
+    - **Experimentation with Ollama and LangChain**: I'm experimenting with the Ollama LLM and the LangChain framework, testing different configurations, training techniques, and practical applications.
+
+I am currently actively contributing on an ERP project working on a secutiry module microservice (https://github.com/CodeCollabCommunity/erp-dev-security-1). My participation on this project have differents approaches:
+
+    - **Learning FastAPI**: One of my main goals is to deepen my understanding of FastAPI and improve my skills in developing web applications in this framework.
+    - **Workflow Enhancement**: By working on this project, I aim to enhance my solo and team workflow practices. This includes improving collaboration, communication, and project management skills to ensure smoother development processes.
+Overall, my participation in this project is driven by a desire to learn, grow, and contribute to the development community while honing my technical skills and adopting best practices in project management and collaboration.
 </div>
 
 ## Where can find me
