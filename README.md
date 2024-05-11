@@ -32,6 +32,11 @@ I'm an afficionate Python guy wit a great interest in fields it could be uses an
 <!-- </div> -->
 </p>
 
+## What am I currently working on?
+<div>
+    <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://python.langchain.com/v0.1/img/brand/wordmark-dark.png" alt="LangChain" height="50" /></a>
+</div>
+
 ## Where can find me
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
