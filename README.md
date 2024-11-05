@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 -----------------
 
-I'm an afficionate Python guy wit a great interest in fields it could be uses and in software development to improve our lives. My interests as professionist is to developing and contributing to solutions through software development, aiming for its scalability and ease to integrate software in our lives. Also i'm focused on learn as much tools i can use to integrate on my knowledge that i can use in a future to offer great solutions.
+I'm a passionate Python developer focused on creating scalable and efficient solutions that seamlessly integrate into real-world applications. With a strong commitment to software quality, I continuously explore new tools and techniques to enhance my development process and contribute to impactful projects. My goal is to build maintainable software that improves the user experience and drives positive change through innovation and thoughtful design.
 
 -   🌍  I'm based in Chih. México.
 - ⚡ Fun fact: My favorite word is hippotomonstrosesquipedaliophobia
