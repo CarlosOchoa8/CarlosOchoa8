@@ -8,6 +8,8 @@ I'm a passionate Python developer focused on creating scalable and efficient sol
 
 -   🌍  I'm based in Chih. México.
 - ⚡ Fun fact: My favorite word is hippotomonstrosesquipedaliophobia
+## Projects i've developed/involved
+- <a href="https://ukitukistore.onrender.com/ukitukistore/" style="text-decoration: none;"> Ukitukistore </a>
 ## Technologies i have used/use daily
 
 <!-- <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; justify-content: center; align-items: center;"> -->
