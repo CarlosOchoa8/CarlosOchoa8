@@ -11,8 +11,8 @@ Experienced Python developer specializing in scalable serverless architectures a
 -   🌍  I'm based in Chih. México.
 - ⚡ Fun fact: My favorite word is hippotomonstrosesquipedaliophobia
 ## Projects i've developed/involved
-- <a href="https://trackfit-beta.vercel.app" style="text-decoration: none;"> Trackfit </a>
-- <a href="https://ukitukistore.onrender.com/ukitukistore/" style="text-decoration: none;"> Ukitukistore </a>
+- <a href="https://trackfit-beta.vercel.app" target="_blank" style="text-decoration: none;"> Trackfit </a>
+- <a href="https://ukitukistore.onrender.com/ukitukistore/" target="_blank" style="text-decoration: none;"> Ukitukistore </a>
 
 ## Technologies i have used/use daily
 
