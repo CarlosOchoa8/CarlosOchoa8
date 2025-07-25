@@ -75,18 +75,25 @@ I am currently actively contributing on an ERP project working on a secutiry mod
 Overall, my participation in this project is driven by a desire to learn, grow, and contribute to the development community while honing my technical skills and adopting best practices in project management and collaboration.
 </div>
 
-## Where can find me
+## 🤜🤛 Let's Connect
+
 <div align="center">
+
 <a href="https://github.com/CarlosOchoa8" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 5px;" />
 </a>
 <a href="https://linkedin.com/in/carlos-ochoa-b3974a217/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 5px;" />
 </a>
 <a href="mailto:ochoa.carlos8@outlook.com" target="_blank">
-<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin: 0 5px;" />
 </a>
+
 </div>
+
+---
+
+*Always open to discussing new opportunities, collaborations, or just having a chat about Python tech, SW , videogames or anything else!* ☕
   
 ## Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=CarlosOchoa8&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
