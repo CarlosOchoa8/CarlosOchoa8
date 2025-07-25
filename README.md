@@ -58,21 +58,22 @@ Experienced Python developer specializing in scalable serverless architectures a
 
 </div>
 
-## What I'm Currently Doing
-<div>
-    -I'm focusing on learning about Language Models (LLMs) using the LangChain framework and the Ollama LLM. Here are some things I'm working on: <a href="https://python.langchain.com/v0.1/docs/get_started/introduction/" target="_blank"><img style="margin: 10px" src="https://python.langchain.com/v0.1/img/brand/wordmark-dark.png" alt="LangChain" height="50" /></a>
+## ⚡ What I'm Currently Working On
 
-    - **Study and Documentation**: I'm dedicating time to studying the fundamental concepts of Language Models and documenting what I learn to help others better understand them.
+**Building:** Scalable web systems using **FastAPI**, **AWS Lambda**, **S3**, **JS**
 
-    - **Courses and Practice**: I'm taking online courses and practicing to improve my skills in using LLMs, exploring different applications and use cases.
+**Optimizing:** Data processing pipelines and high-performance Python applications with best practices.
 
-    - **Experimentation with Ollama and LangChain**: I'm experimenting with the Ollama LLM and the LangChain framework, testing different configurations, training techniques, and practical applications.
+**Contributing:** Open source projects in the Python ecosystem, focusing on performance and developer experience.
 
-I am currently actively contributing on an ERP project working on a secutiry module microservice (https://github.com/CodeCollabCommunity/erp-dev-security-1). My participation on this project have differents approaches:
+**Learning:** Advanced serverless patterns, cutting-edge Python features, and cloud-native architecture and more.
 
-    - **Learning FastAPI**: One of my main goals is to deepen my understanding of FastAPI and improve my skills in developing web applications in this framework.
-    - **Workflow Enhancement**: By working on this project, I aim to enhance my solo and team workflow practices. This includes improving collaboration, communication, and project management skills to ensure smoother development processes.
-Overall, my participation in this project is driven by a desire to learn, grow, and contribute to the development community while honing my technical skills and adopting best practices in project management and collaboration.
+---
+
+<div align="center">
+
+*Focused on writing **scalable**, **flexible**, and **high-performance** code that solves real-world problems* 🎯
+
 </div>
 
 ## 🤜🤛 Let's Connect
