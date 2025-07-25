@@ -17,7 +17,7 @@ Experienced Python developer specializing in scalable serverless architectures a
 ## Technologies i have used/use daily
 
 <!-- <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; justify-content: center; align-items: center;"> -->
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" height="50" /></a>
 <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Light.svg" alt="AWS" height="50" /></a>
@@ -37,9 +37,20 @@ Experienced Python developer specializing in scalable serverless architectures a
 <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GithubActions-Dark.svg" alt="GitHubActions" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" alt="C#" height="50" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TensorFlow-Light.svg" alt="TensorFlow" height="50" /></a>
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/OpenCV-Light.svg" alt="TensorFlow" height="50" /></a>
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/OpenCV-Light.svg" alt="TensorFlow" height="50" /></a> -->
 <!-- </div> -->
-</p>
+<!-- </p> -->
+
+<div align="center">
+
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="50" /></a> | <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" width="50" /></a> | <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Light.svg" alt="AWS" width="50" /></a> | <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Flask-Light.svg" alt="Flask" width="50" /></a> | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" alt="Django" width="50" /></a> | <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" /></a> |
+| <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" /></a> | <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" width="50" /></a> | <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" width="50" /></a> | <a href="https://es.react.dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" alt="React" width="50" /></a> | <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" /></a> | <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" width="50" /></a> |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" alt="HTML5" width="50" /></a> | <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" alt="CSS3" width="50" /></a> | <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="50" /></a> | <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" alt="GitHub" width="50" /></a> | <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GithubActions-Dark.svg" alt="GitHub Actions" width="50" /></a> | <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" alt="C#" width="50" /></a> |
+| <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TensorFlow-Light.svg" alt="TensorFlow" width="50" /></a> | <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/OpenCV-Light.svg" alt="OpenCV" width="50" /></a> | | | | |
+
+</div>
 
 ## What I'm Currently Doing
 <div>
