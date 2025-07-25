@@ -27,11 +27,7 @@ Experienced Python developer specializing in scalable serverless architectures a
 🔨 **[smithy](https://github.com/Anvoria/smithy)** - Platform for managing projects
 
 </div>
-<div align="center">
 
-🔨 <strong><a href="https://github.com/Anvoria/smithy" target="_blank">smithy</a></strong> - Platform for managing projects
-
-</div>
 
 ## 🛠️ Tech Stack
 
