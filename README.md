@@ -8,38 +8,26 @@ Python Developer
 
 Experienced Python developer specializing in scalable serverless architectures and data-driven solutions. I build high-performance applications using FastAPI and AWS services, with a focus on maintainable, type-safe code that delivers real business value. Passionate about pushing Python's capabilities beyond conventional approaches to create innovative, production-ready systems.
 
--   🌍  I'm based in Chih. México.
+-   🌍  I'm based in México.
 - ⚡ Fun fact: My favorite word is hippotomonstrosesquipedaliophobia
-## Projects i've developed/involved
-- <a href="https://trackfit-beta.vercel.app" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;"> Trackfit </a>
-- <a href="https://ukitukistore.onrender.com/ukitukistore/" target="_blank" style="text-decoration: none;"> Ukitukistore </a>
 
-## Technologies i have used/use daily
+## 🚀 Featured Projects
 
-<!-- <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; justify-content: center; align-items: center;"> -->
-<!-- <p align="center">
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" height="50" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" height="50" /></a>
-<a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Light.svg" alt="AWS" height="50" /></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Flask-Light.svg" alt="Flask" height="50" /></a>
-<a href="https://www.django-rest-framework.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" alt="Django" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>
-<a href="https://es.react.dev" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" alt="React" height="50" /></a>
-<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Light.svg" alt="NodeJS" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" alt="CSS3" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" alt="Git" height="50" /></a>
-<a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GithubActions-Dark.svg" alt="GitHubActions" height="50" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" alt="C#" height="50" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TensorFlow-Light.svg" alt="TensorFlow" height="50" /></a>
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/OpenCV-Light.svg" alt="TensorFlow" height="50" /></a> -->
-<!-- </div> -->
-<!-- </p> -->
+<div align="center">
+
+🏋️ **[Trackfit](https://trackfit-beta.vercel.app)** - Fitness Tracking Application  
+🛍️ **[Ukitukistore](https://ukitukistore.onrender.com/ukitukistore/)** - E-commerce Platform (on maintenance)
+
+</div>
+
+## 🤝 Open Source Contribs
+
+<div align="center">
+
+🔨 **[smithy](https://github.com/Anvoria/smithy)** - Platform for managing projects
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
