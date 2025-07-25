@@ -97,4 +97,4 @@ Experienced Python developer specializing in scalable serverless architectures a
 *Always open to discussing new opportunities, collaborations, or just having a chat about Python tech, SW , videogames or anything else!* ☕
   
 ## Github Stats  
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosOchoa8&theme=monokai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosOchoa8&theme=omni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
